@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T07:40:38.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="eNFfzYQSpu7wUccL6P22" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T07:41:23.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="GcgdvTuZSP6dXzM3zKcD" version="20.3.1" type="github">
   <diagram id="DaddVCieqoBXriiSNecJ" name="Page-1">
     <mxGraphModel dx="1422" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -325,7 +325,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jbz5mai3YLKV8F3OFK37-2" value="&lt;b&gt;# Class 6&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-94" y="2305" width="70" height="26" as="geometry" />
+          <mxGeometry x="-193" y="2290" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Jbz5mai3YLKV8F3OFK37-3" value="Characteristics of elastic Load Balancers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="41" y="2212" width="235" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T05:30:20.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="Zz8zgrBuZ5wYHrlu_afh" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T08:00:37.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="ycMtp2QfQeARZX2KC9ax" version="20.3.6" type="github">
   <diagram id="DaddVCieqoBXriiSNecJ" name="Page-1">
-    <mxGraphModel dx="1421" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,8 +330,14 @@
         <mxCell id="Jbz5mai3YLKV8F3OFK37-3" value="Characteristics of elastic Load Balancers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="41" y="2212" width="235" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3pm16msdEDqEwr2HG_pU-1" value="Auto Scaling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3pm16msdEDqEwr2HG_pU-1" value="Auto Scaling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-73.75" y="2345" width="85" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%26gt%3B%23%20Class%206%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3D%23FF0000%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-193%22%20y%3D%222290%22%20width%3D%2270%22%20height%3D%2226%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-194" y="2442" width="18" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-2" value="&lt;b&gt;# Class 7&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-193" y="2465" width="70" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T08:08:36.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="Y0IgH73B6a9lVa-GMpH1" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T08:13:17.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="4t9J99T4U3yhMnsACXcp" version="20.3.6" type="github">
   <diagram id="DaddVCieqoBXriiSNecJ" name="Page-1">
     <mxGraphModel dx="1182" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="2911" width="181" height="97" as="geometry" />
+        </mxCell>
         <mxCell id="_g-UfzEeWr6lK5VFBztd-78" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="21" y="2099" width="274" height="109" as="geometry" />
         </mxCell>
@@ -407,6 +410,31 @@
         </mxCell>
         <mxCell id="OS8X4QPElBR2WNaU_ea1-19" value="&lt;h4&gt;Ec2&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-47" y="2768" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-20" value="1. 2/2 - H &amp;amp; EC2 Passing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="2919" width="151" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OS8X4QPElBR2WNaU_ea1-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142.00006103515625" y="2958" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-21" value="2. 0/2 - Both Fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="2945" width="106" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OS8X4QPElBR2WNaU_ea1-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="141.3333740234375" y="2984" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-22" value="3. 1/2 - H&amp;nbsp; Passing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="2971" width="117" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-28" value="To achieve this STOP &amp;amp; START" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2940" width="208" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-29" value="To achieve this REBOOT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="2971" width="208" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

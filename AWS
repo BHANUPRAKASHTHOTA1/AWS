@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T08:16:50.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="g-q7OE9RUwTQyTBGdk44" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T08:17:57.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="ynLBTb5EmNBqCBXcozl4" version="20.3.6" type="github">
   <diagram id="DaddVCieqoBXriiSNecJ" name="Page-1">
-    <mxGraphModel dx="1422" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,13 +353,13 @@
             <mxPoint x="352.66668701171875" y="2857" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OS8X4QPElBR2WNaU_ea1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-42" y="2837" width="322" height="39" as="geometry" />
         </mxCell>
         <mxCell id="OS8X4QPElBR2WNaU_ea1-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-42" y="2759" width="322" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="OS8X4QPElBR2WNaU_ea1-8" value="&lt;h4&gt;Xen - OS&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-8" value="&lt;h4&gt;Xen - OS&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-42" y="2798" width="322" height="39" as="geometry" />
         </mxCell>
         <mxCell id="OS8X4QPElBR2WNaU_ea1-9" value="&lt;h3&gt;Underlying Hardware&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -440,10 +440,10 @@
         <mxCell id="OS8X4QPElBR2WNaU_ea1-22" value="3. 1/2 - H&amp;nbsp; Passing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-119" y="2971" width="117" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="OS8X4QPElBR2WNaU_ea1-28" value="To achieve this STOP &amp;amp; START" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-28" value="To achieve this STOP &amp;amp; START" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="144" y="2940" width="208" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="OS8X4QPElBR2WNaU_ea1-29" value="To achieve this REBOOT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-29" value="To achieve this REBOOT" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="144" y="2980" width="208" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OS8X4QPElBR2WNaU_ea1-31" value="Hardware Pass &amp;amp; Ec2 Fail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

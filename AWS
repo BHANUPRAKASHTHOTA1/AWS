@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T08:15:36.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="EWUgdHsCYxVmRcMPYVR1" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T08:16:50.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="g-q7OE9RUwTQyTBGdk44" version="20.3.6" type="github">
   <diagram id="DaddVCieqoBXriiSNecJ" name="Page-1">
-    <mxGraphModel dx="1182" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,6 +348,11 @@
         <mxCell id="OS8X4QPElBR2WNaU_ea1-5" value="&lt;h2&gt;&lt;b&gt;1. Status Checks&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-243" y="2673" width="162" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OS8X4QPElBR2WNaU_ea1-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352.66668701171875" y="2857" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OS8X4QPElBR2WNaU_ea1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-42" y="2837" width="322" height="39" as="geometry" />
         </mxCell>
@@ -443,6 +448,9 @@
         </mxCell>
         <mxCell id="OS8X4QPElBR2WNaU_ea1-31" value="Hardware Pass &amp;amp; Ec2 Fail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-117" y="3056" width="203" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="OS8X4QPElBR2WNaU_ea1-33" value="10,000 GB ram&lt;br&gt;10,000 TB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.8" y="2841.5" width="152.2" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
